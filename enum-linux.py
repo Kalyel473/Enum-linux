@@ -1,7 +1,4 @@
 
-
-Uso autorizado apenas contra sistemas que você possui ou tem autorização formal.
-"""
 import argparse, json, os, re, socket, ssl, subprocess, sys, threading, time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field, asdict
