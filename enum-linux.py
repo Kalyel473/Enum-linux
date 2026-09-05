@@ -1,14 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-LinEnumX 2.0 — Enumeração avançada de hosts Linux em Python.
-Espírito do enum4linux aplicado ao lado Linux do alvo.
 
-EXEMPLOS:
-  sudo  python3 linenumx.py -t 10.10.10.10 -p 1-65535
-  python3 linenumx.py -t 10.10.10.10 --udp --http-deep --domain corp.local
-  python3 linenumx.py -t 10.10.10.10 --service smb --rid-cycle --user admin --password x
-  python3 linenumx.py -t 10.10.10.10 --creds-file creds.txt --user-file users.txt -f text,json,html,md,yaml
 
 Uso autorizado apenas contra sistemas que você possui ou tem autorização formal.
 """
