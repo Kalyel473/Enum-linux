@@ -1,6 +1,6 @@
 📡 LinEnumX
 
-Enumeração avançada de hosts Linux em Python — o "enum4linux" do Linux.
+Enumeração avançada de hosts Linux em Python  o "enum4linux" do Linux.
 
 O LinEnumX é uma ferramenta de reconhecimento/Enumeração que espelha o espírito do clássico enum4linux (voltado para Windows/SMB) e o aplica ao lado Linux de um alvo: descobre serviços, banners e versões, tenta enumeração de usuários (SSH/SMTP/LDAP/RPC), monta NFS, lê shares SMB, varre SNMP, explora bancos/serviços sem autenticação, detecta CVEs por banner e ancora tudo com detecção de tecnologia web, varredura UDP e relatórios em múltiplos formatos.
 
